@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>window1.jpg</file>
+        <file>button1.png</file>
+        <file>mainscreen.jpeg</file>
+        <file>returnbtn.png</file>
+        <file>Peashooter.gif</file>
+        <file>choosebtn1.png</file>
+        <file>choosebtn2.png</file>
+        <file>choose1.png</file>
+        <file>choose2.png</file>
+        <file>choose.jpg</file>
+        <file>background1.jpg</file>
+        <file>background2.jpg</file>
+        <file>lawncleaner.png</file>
+        <file>FireTree.png</file>
+        <file>IcePeaShooter.png</file>
+        <file>Mushroom.png</file>
+        <file>PeaShooter.png</file>
+        <file>PeaShooter2.png</file>
+        <file>PotatoMine.png</file>
+        <file>Potato.png</file>
+        <file>CherryBomb.png</file>
+        <file>NotEnoughSun.wav</file>
+        <file>Place.wav</file>
+    </qresource>
+</RCC>
